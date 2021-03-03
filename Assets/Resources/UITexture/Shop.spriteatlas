@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Shop
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 26da77fd098dc7d4b80daa81886ff2d5, type: 3}
+    totalSpriteSurfaceArea: 1095230
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 784a0f45b3967b84a93812d7e8dd7d1b, type: 3}
+  - {fileID: 21300000, guid: f0e9ed06df3994544bbf5aa0305d5453, type: 3}
+  - {fileID: 21300000, guid: 57cb7e79f5bb917409cbc610f9ed8386, type: 3}
+  - {fileID: 21300000, guid: 33c0906ac32aafe40b55aa7d6c3a2ce3, type: 3}
+  - {fileID: 21300000, guid: 17f03cc2ced63754c8af2e43c29f1650, type: 3}
+  - {fileID: 21300000, guid: c9d90743f079fac46a140db53359139d, type: 3}
+  - {fileID: 21300000, guid: d451bcd2502b48d47bbb23518f8fdd43, type: 3}
+  - {fileID: 21300000, guid: a3f4566ec8109db40981443aa4aab14d, type: 3}
+  - {fileID: 21300000, guid: 46aa983d350be8647959342289e25189, type: 3}
+  - {fileID: 21300000, guid: ff95cb60bf99c1d4b9f402d2dd465f27, type: 3}
+  - {fileID: 21300000, guid: b3bd9bd3e3f91094eb71192d9ed3c9b5, type: 3}
+  - {fileID: 21300000, guid: f26934a3f95614041b984f839ed79eed, type: 3}
+  - {fileID: 21300000, guid: 8ed383f4bfbb6c342b637303a0004a94, type: 3}
+  - {fileID: 21300000, guid: 892136e0f5221d146bd6e1ba9995253b, type: 3}
+  - {fileID: 21300000, guid: 73b0e7e4d081f6b449e4afe87d4a7649, type: 3}
+  - {fileID: 21300000, guid: ff846cd4458c80d44b94552a8601491e, type: 3}
+  - {fileID: 21300000, guid: dc5789a1fa9a75840a6d35d820bf0614, type: 3}
+  - {fileID: 21300000, guid: 3bd1e829b58ede74d8856813ab4d24ff, type: 3}
+  - {fileID: 21300000, guid: 312122109328ff642bf889f7a697e2a5, type: 3}
+  - {fileID: 21300000, guid: 04fe20c050ef81e4e849e96b570cc429, type: 3}
+  - {fileID: 21300000, guid: 26948f3fa73ab134d81877e5096d423f, type: 3}
+  - {fileID: 21300000, guid: 89fcba3bfe3144540a35db98005e2d70, type: 3}
+  - {fileID: 21300000, guid: 984cab758d3dc4b44a43af94e7c3d5a5, type: 3}
+  - {fileID: 21300000, guid: ed1e27cd32dab734db5acd1a6b8fc394, type: 3}
+  - {fileID: 21300000, guid: 243bde34c80cbbb4b854f61a9ebcd0aa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - shop_img_gem_04
+  - shop_img_coin_04
+  - shop_img_soulgem_04
+  - popup_bg
+  - shop_img_gem_03
+  - shop_img_coin_03
+  - shop_img_soulgem_03
+  - shop_img_coin_02
+  - shop_img_soulgem_02
+  - shop_img_gem_02
+  - shop_img_soulgem_01
+  - shop_tab_s
+  - shop_tab_n
+  - common_btn_color_blue
+  - common_btn_color_green
+  - shop_img_coin_01
+  - shop_img_bg
+  - shop_img_gem_01
+  - popup_btn_close
+  - shop_label_red
+  - shop_label_purple
+  - shop_btn_icon_gem
+  - common_shadow_left
+  - common_shadow_right
+  - shop_btn_icon_price
+  m_Tag: Shop
+  m_IsVariant: 0

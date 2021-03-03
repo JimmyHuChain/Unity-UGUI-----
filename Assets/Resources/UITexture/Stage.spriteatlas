@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Stage
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 484ce0421de1a6649a36939df3b2779a, type: 3}
+    totalSpriteSurfaceArea: 272763
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6f777443afea26248a184e5ee564d6b6, type: 3}
+  - {fileID: 21300000, guid: 2996e732ce30a6044af843246ac9cb2c, type: 3}
+  - {fileID: 21300000, guid: f98fb3f258cfe784490f1fd580beb456, type: 3}
+  - {fileID: 21300000, guid: d7a8c985704d40547bc952adb1c542e6, type: 3}
+  - {fileID: 21300000, guid: 8785cd1f5a72b4143bce1fc45117421a, type: 3}
+  - {fileID: 21300000, guid: 7b6ed2567deb7444d96460f47b38ee55, type: 3}
+  - {fileID: 21300000, guid: 8b1b9facecacf274a968df5e0d830f3b, type: 3}
+  - {fileID: 21300000, guid: 36c89ac1c7f407342a0e75196978cc63, type: 3}
+  - {fileID: 21300000, guid: 15a8c6e6104f9d24da1d969a4a735b37, type: 3}
+  - {fileID: 21300000, guid: b5463316ca3222840ada00252f4b5086, type: 3}
+  - {fileID: 21300000, guid: 52db1bbdc9184f14697c015387defc36, type: 3}
+  - {fileID: 21300000, guid: 82ffe6b34f8bdbb46a2dee984aa3c22a, type: 3}
+  - {fileID: 21300000, guid: 29a260fe520baaa43a8c8bd23638be2c, type: 3}
+  - {fileID: 21300000, guid: 46dfddd0959486f46a5026da7195fafd, type: 3}
+  - {fileID: 21300000, guid: ee9ac68b83b24e3468a68b984fe59c6e, type: 3}
+  - {fileID: 21300000, guid: aeb1844dca6519447b35f2f9aba4e079, type: 3}
+  - {fileID: 21300000, guid: bc7b705a6c5d95448af60b0c72e51c7d, type: 3}
+  - {fileID: 21300000, guid: 73beb31060fec104c83d6662f3688bfb, type: 3}
+  - {fileID: 21300000, guid: 6a9a359bd1c0d344b928b23c8ab73f48, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - stage_top_bg
+  - stage_frame_default
+  - stage_frame_lock
+  - stage_frame_complete
+  - status_bg_color
+  - status_icon_gem
+  - status_icon_soul_gem
+  - status_icon_coin
+  - btn_add
+  - page_next
+  - page_prev
+  - stage_btn_home
+  - icon_count_star
+  - stage_star
+  - page_navi_bg_03
+  - page_navi_bg_01
+  - page_navi_bg_02
+  - page_navi
+  - page_navi_white
+  m_Tag: Stage
+  m_IsVariant: 0

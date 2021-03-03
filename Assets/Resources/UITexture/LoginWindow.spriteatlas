@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: LoginWindow
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fa2d66e5500de6a42b0d05024052b9d0, type: 3}
+    totalSpriteSurfaceArea: 251542
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 168b577b36df90b4aab7470debab45f9, type: 3}
+  - {fileID: 21300000, guid: 93e1226c19953a44aa46a205e64192f9, type: 3}
+  - {fileID: 21300000, guid: 60ef99390916c7a4d92d54458befc2c4, type: 3}
+  - {fileID: 21300000, guid: 25a1b87a7b7401846a0f61cf4f8c4374, type: 3}
+  - {fileID: 21300000, guid: 26ad0aa89ec73f345bb9971e14732483, type: 3}
+  - {fileID: 21300000, guid: d1499d6aae94e4c46a98c27e838f2685, type: 3}
+  - {fileID: 21300000, guid: 4be78d3a2f1200b4492ecf1dcd2efaa7, type: 3}
+  - {fileID: 21300000, guid: ac26536c415710e4096a5eb9eb901e4e, type: 3}
+  - {fileID: 21300000, guid: 1d6aed4e0cec542489cd1e5cf7c29b0d, type: 3}
+  - {fileID: 21300000, guid: 35e82aa5b9506ba4fbbf57081f012082, type: 3}
+  - {fileID: 21300000, guid: 217419126d512d2479f42c9deb67e3e8, type: 3}
+  - {fileID: 21300000, guid: 28ab4865a87da5b43873fdef7e773c20, type: 3}
+  - {fileID: 21300000, guid: 561a460bdc8b29840b9ee398d7dad0df, type: 3}
+  - {fileID: 21300000, guid: b7730e351da29b041b86370358f03b91, type: 3}
+  - {fileID: 21300000, guid: 3873789c9d3d016419126662a128b297, type: 3}
+  - {fileID: 21300000, guid: e3138eac479d84c4982270daff16230f, type: 3}
+  - {fileID: 21300000, guid: 1d7698e0831567649b25d3f5cef73a0d, type: 3}
+  - {fileID: 21300000, guid: 3cafb519a88b5774e97073b5199cacbf, type: 3}
+  - {fileID: 21300000, guid: 3f504016debd6594e8e38c9417256b80, type: 3}
+  - {fileID: 21300000, guid: d529b76c45612504cb95e2ac511e29f2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - popup_bg
+  - common_popup_title_00
+  - common_popup_title_01
+  - common_btn_color_blue
+  - popup_btn_close
+  - common_popup_title_03
+  - common_popup_title_02
+  - txt_field_typing
+  - txt_field_error
+  - txt_field_normal
+  - txt_field_hint
+  - check_off_tiny
+  - check_on_tiny
+  - txt_field_ic_pw
+  - txt_field_ic_user
+  - txt_field_ic_email
+  - txt_field_ic_error
+  - txt_field_ic_error_white
+  - Required_circle
+  - Required_circle_white
+  m_Tag: LoginWindow
+  m_IsVariant: 0

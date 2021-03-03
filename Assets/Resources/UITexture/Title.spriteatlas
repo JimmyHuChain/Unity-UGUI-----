@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Title
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3e52e5a329f7c5b41a4c9d2adbb7d091, type: 3}
+    - {fileID: 2800000, guid: 8a5122e7e42e1044699fa1fb55ed8cbc, type: 3}
+    - {fileID: 2800000, guid: 16cf9dfbb426eab4b870a0848ae78971, type: 3}
+    - {fileID: 2800000, guid: 1c3377339cedb95469bf8ea66ed2c30f, type: 3}
+    - {fileID: 2800000, guid: 8fee4e4335977c749b08223533f75bdd, type: 3}
+    - {fileID: 2800000, guid: c8a14b89db7c71a419cdcdd2645ec7da, type: 3}
+    - {fileID: 2800000, guid: 3b08ceea2bbc8234e8ed6ebf44a9acf9, type: 3}
+    - {fileID: 2800000, guid: 3cddb1957f2ecda428ea7be0761882cc, type: 3}
+    - {fileID: 2800000, guid: d43c2343bd4d003499bc79b36ab447cb, type: 3}
+    - {fileID: 2800000, guid: 590214be1696a944e88dc88db840c66f, type: 3}
+    - {fileID: 2800000, guid: 67affa93b24fc494682f3007dbc25b58, type: 3}
+    - {fileID: 2800000, guid: b88f0df04332c224995ace37d3f2f5a4, type: 3}
+    - {fileID: 2800000, guid: 24b4e98ffb40fa247a25cae700debd8d, type: 3}
+    - {fileID: 2800000, guid: 1ec15a7bb9808fc4fa61264c8655d7d2, type: 3}
+    - {fileID: 2800000, guid: 7d988ca7d313a124fab57460b1b1dca9, type: 3}
+    - {fileID: 2800000, guid: 9454b21dcb1bdd447b88af55dbf44cfb, type: 3}
+    - {fileID: 2800000, guid: 8cae30ac6bbc0574fa52c2b9ddd5d6d2, type: 3}
+    - {fileID: 2800000, guid: 4fc7fc388e86a4a4e919af48942eda3c, type: 3}
+    - {fileID: 2800000, guid: fbc6d987f1816454999b40b0faadd517, type: 3}
+    - {fileID: 2800000, guid: 9e60378d3d7900547ad2804b2d7db6e5, type: 3}
+    - {fileID: 2800000, guid: 66d09be34125d914f86b7e87af59fb9b, type: 3}
+    - {fileID: 2800000, guid: b5f4dd45b03a4a24893629e46e82eca3, type: 3}
+    - {fileID: 2800000, guid: 04ed8ba97a37599488485a68edaf0a4b, type: 3}
+    - {fileID: 2800000, guid: a992df2d177081c45966619d11a2ca60, type: 3}
+    - {fileID: 2800000, guid: 80f4b664b3972d34e87fdca552ec6181, type: 3}
+    - {fileID: 2800000, guid: e8366587b246fb34587d0e4e95f1bc63, type: 3}
+    - {fileID: 2800000, guid: 9568ae424c5fb7045abd53333fc4ef6c, type: 3}
+    - {fileID: 2800000, guid: 45c153e1645e7ff4096feb6aec2a2424, type: 3}
+    - {fileID: 2800000, guid: b607ce4d7ae78e147af203270357ddb9, type: 3}
+    - {fileID: 2800000, guid: f2974eaa41dbb4b4e9605b3df7481b85, type: 3}
+    - {fileID: 2800000, guid: 03f0984ef7dc000499f41f26dbba08d8, type: 3}
+    - {fileID: 2800000, guid: 21ae052ef450fe040a92ab90eb0a4751, type: 3}
+    totalSpriteSurfaceArea: 522824
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1c3377339cedb95469bf8ea66ed2c30f, type: 3}
+  - {fileID: 21300000, guid: 8fee4e4335977c749b08223533f75bdd, type: 3}
+  - {fileID: 21300000, guid: 66d09be34125d914f86b7e87af59fb9b, type: 3}
+  - {fileID: 21300000, guid: f2974eaa41dbb4b4e9605b3df7481b85, type: 3}
+  - {fileID: 21300000, guid: 9568ae424c5fb7045abd53333fc4ef6c, type: 3}
+  - {fileID: 21300000, guid: 8cae30ac6bbc0574fa52c2b9ddd5d6d2, type: 3}
+  - {fileID: 21300000, guid: c8a14b89db7c71a419cdcdd2645ec7da, type: 3}
+  - {fileID: 21300000, guid: 8a5122e7e42e1044699fa1fb55ed8cbc, type: 3}
+  - {fileID: 21300000, guid: 16cf9dfbb426eab4b870a0848ae78971, type: 3}
+  - {fileID: 21300000, guid: d43c2343bd4d003499bc79b36ab447cb, type: 3}
+  - {fileID: 21300000, guid: 590214be1696a944e88dc88db840c66f, type: 3}
+  - {fileID: 21300000, guid: 3cddb1957f2ecda428ea7be0761882cc, type: 3}
+  - {fileID: 21300000, guid: b607ce4d7ae78e147af203270357ddb9, type: 3}
+  - {fileID: 21300000, guid: 21ae052ef450fe040a92ab90eb0a4751, type: 3}
+  - {fileID: 21300000, guid: 03f0984ef7dc000499f41f26dbba08d8, type: 3}
+  - {fileID: 21300000, guid: b88f0df04332c224995ace37d3f2f5a4, type: 3}
+  - {fileID: 21300000, guid: 3b08ceea2bbc8234e8ed6ebf44a9acf9, type: 3}
+  - {fileID: 21300000, guid: 67affa93b24fc494682f3007dbc25b58, type: 3}
+  - {fileID: 21300000, guid: b5f4dd45b03a4a24893629e46e82eca3, type: 3}
+  - {fileID: 21300000, guid: fbc6d987f1816454999b40b0faadd517, type: 3}
+  - {fileID: 21300000, guid: 9e60378d3d7900547ad2804b2d7db6e5, type: 3}
+  - {fileID: 21300000, guid: 4fc7fc388e86a4a4e919af48942eda3c, type: 3}
+  - {fileID: 21300000, guid: 3e52e5a329f7c5b41a4c9d2adbb7d091, type: 3}
+  - {fileID: 21300000, guid: 7d988ca7d313a124fab57460b1b1dca9, type: 3}
+  - {fileID: 21300000, guid: 1ec15a7bb9808fc4fa61264c8655d7d2, type: 3}
+  - {fileID: 21300000, guid: 9454b21dcb1bdd447b88af55dbf44cfb, type: 3}
+  - {fileID: 21300000, guid: 24b4e98ffb40fa247a25cae700debd8d, type: 3}
+  - {fileID: 21300000, guid: 45c153e1645e7ff4096feb6aec2a2424, type: 3}
+  - {fileID: 21300000, guid: 04ed8ba97a37599488485a68edaf0a4b, type: 3}
+  - {fileID: 21300000, guid: a992df2d177081c45966619d11a2ca60, type: 3}
+  - {fileID: 21300000, guid: 80f4b664b3972d34e87fdca552ec6181, type: 3}
+  - {fileID: 21300000, guid: e8366587b246fb34587d0e4e95f1bc63, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - btn_start_f
+  - btn_start_n
+  - title_text
+  - user_info_profile_bg
+  - user_info_gage_bg
+  - status_bg_common
+  - menu_bg
+  - btn_add_friend
+  - btn_sns_facebook
+  - menu_mission
+  - menu_ranking
+  - menu_message
+  - user_info_profile
+  - user_info_profile_monster
+  - user_info_profile_default
+  - menu_shop
+  - menu_item
+  - menu_setting
+  - title_text_sub
+  - status_icon_gem
+  - status_icon_soul_gem
+  - status_icon_coin
+  - btn_add
+  - notification_bg_02
+  - notification_bg_01
+  - notification_new
+  - notification_alert
+  - user_info_lv_bg
+  - user_info_gage_01_bar_orange
+  - user_info_gage_01_bar_white
+  - user_info_gage_02_bar_green
+  - user_info_gage_02_bar_white
+  m_Tag: Title
+  m_IsVariant: 0
